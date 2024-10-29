@@ -86,8 +86,7 @@ describe('API Pact test', () => {
       const expectedProduct = {
         id: '10',
         type: 'CREDIT_CARD',
-        name: '28 Degrees',
-        alias: 'moja kartunia'
+        name: '28 Degrees'
       };
 
       mockProvider
